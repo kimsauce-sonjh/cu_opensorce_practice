@@ -1,12 +1,12 @@
 # cu_opensorce_practice
 
 Commentary :
-저는.. 4학년이기도 하고, 평소에도 쓰고 졸업작품에도 github를 썼기 때문에 실습용(연습용)으로 만들어진 저장소입니다.
+저는.. 4학년이기도 하고, 평소에도 쓰고 졸업작품에도 github를 썼기 때문에 실습용(연습용)으로 만들어진 저장소입니다. \n\n
 
-Project name : DCU_opensource_practice
-Project_writer : 손재학
-DCU_Id_number : 15111434
-Project_starting_date : 2021.12.02 (Thu)
+Project name : DCU_opensource_practice \n
+Project_writer : 손재학 \n
+DCU_Id_number : 15111434 \n
+Project_starting_date : 2021.12.02 (Thu) \n\n
 
 #letter
 
